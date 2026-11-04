@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\w0522339\\MasonUnity\\holder\\GP3-JsonSerlizeandDeserialize-MasonSeale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{007B6E60-1E27-40E0-855B-13A36560F470}|GP3-JsonSerlizeandDeserialize-MasonSeale\\GP3-JsonSerlizeandDeserialize-MasonSeale.csproj|c:\\users\\w0522339\\masonunity\\holder\\gp3-jsonserlizeanddeserialize-masonseale\\gp3-jsonserlizeanddeserialize-masonseale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007B6E60-1E27-40E0-855B-13A36560F470}|GP3-JsonSerlizeandDeserialize-MasonSeale\\GP3-JsonSerlizeandDeserialize-MasonSeale.csproj|solutionrelative:gp3-jsonserlizeanddeserialize-masonseale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007B6E60-1E27-40E0-855B-13A36560F470}|GP3-JsonSerlizeandDeserialize-MasonSeale\\GP3-JsonSerlizeandDeserialize-MasonSeale.csproj|c:\\users\\w0522339\\masonunity\\holder\\gp3-jsonserlizeanddeserialize-masonseale\\gp3-jsonserlizeanddeserialize-masonseale\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007B6E60-1E27-40E0-855B-13A36560F470}|GP3-JsonSerlizeandDeserialize-MasonSeale\\GP3-JsonSerlizeandDeserialize-MasonSeale.csproj|solutionrelative:gp3-jsonserlizeanddeserialize-masonseale\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "settings.cs",
+              "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\holder\\GP3-JsonSerlizeandDeserialize-MasonSeale\\GP3-JsonSerlizeandDeserialize-MasonSeale\\settings.cs",
+              "RelativeDocumentMoniker": "GP3-JsonSerlizeandDeserialize-MasonSeale\\settings.cs",
+              "ToolTip": "C:\\Users\\w0522339\\MasonUnity\\holder\\GP3-JsonSerlizeandDeserialize-MasonSeale\\GP3-JsonSerlizeandDeserialize-MasonSeale\\settings.cs",
+              "RelativeToolTip": "GP3-JsonSerlizeandDeserialize-MasonSeale\\settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T13:12:24.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\w0522339\\MasonUnity\\holder\\GP3-JsonSerlizeandDeserialize-MasonSeale\\GP3-JsonSerlizeandDeserialize-MasonSeale\\Program.cs",
+              "RelativeDocumentMoniker": "GP3-JsonSerlizeandDeserialize-MasonSeale\\Program.cs",
+              "ToolTip": "C:\\Users\\w0522339\\MasonUnity\\holder\\GP3-JsonSerlizeandDeserialize-MasonSeale\\GP3-JsonSerlizeandDeserialize-MasonSeale\\Program.cs",
+              "RelativeToolTip": "GP3-JsonSerlizeandDeserialize-MasonSeale\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T13:11:43.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
